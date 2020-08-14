@@ -1,0 +1,24 @@
+{
+  "name": "onepiece",
+  "version": "1.0.0",
+  "description": "wano-arc",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "git": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oda",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rupom141/OnePiece.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rupom141/OnePiece/issues"
+  },
+  "homepage": "https://github.com/Rupom141/OnePiece#readme"
+}
